@@ -13,7 +13,7 @@
 > Novice: basic theoretical knowledge.  
 > Intermediate: good theoretical knowledge, practical skills.  
 > Advanced: perfect theoretical knowledge, practical skills, more than a year of working experience.  
------
+
 ### Programming skills
 #### Novice
 * C#
@@ -24,7 +24,7 @@
 
 #### Intermediate
 * PHP + framework "Laravel"
------
+
 ### OS
 #### Novice
 * Android
@@ -32,13 +32,13 @@
 
 #### Advanced
 * Windows
------
+
 ### Databases
 #### Novice
 * Microsoft SQL Server
 * Oracle
 * MySQL
------
+
 ## Education
 
 **Educational establishment** - BARSU, Baranovichi, Belarus  
@@ -48,6 +48,6 @@
 **Education form** - Full-time  
 **Admission** - year 2013  
 **Graduation** - year 2017.
------
+
 ## English
 > Some internet tests says that i have A2+ level (low intermediate). I hope i can do better.
