@@ -44,3 +44,16 @@
 * Microsoft SQL Server
 * Oracle
 * MySQL
+
+## Education
+
+**Educational establishment** - BARSU, Baranovichi, Belarus\
+**Faculty** - Engineering\
+**Department** - Informational Systems and Technologies\
+**Degree information** - Higher\
+**Education form** - Full-time\
+**Admission** - year 2013\
+**Graduation** - year 2017.
+
+## English
+> Some internet tests says that i have A2+ level (low intermediate). I hope i can do better.
