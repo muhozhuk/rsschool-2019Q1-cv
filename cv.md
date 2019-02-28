@@ -1,5 +1,5 @@
 # Artsiom Filckevich
-
+![My Avatar](https://pp.userapi.com/c837628/v837628015/4a283/xLhKVQAwVPA.jpg?ava=1)
 ## Personal information
 
 **Email** - ubbodl@gmail.com  
