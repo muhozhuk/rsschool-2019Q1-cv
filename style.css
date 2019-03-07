@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0 2vh 0 2vh;
+  background: #eaeaea;
+  color: #999999;
+}
+h1, h2, h3, h4, h5, h6, a {
+  color: #2a2a2a;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+ }
+ul {
+  margin: 0;
+  padding: 0;
+ }
+.nav-header {
+
+}
+.nav-header ul {
+   display: grid;
+   height: 100%;
+   grid-template-rows: 150px 1fr 1fr 1fr 1fr 1fr;
+   grid-row-gap: 1px;
+}
+ .nav-header ul li {
+   display: block;
+   background-color: #FFD42D;
+   
+ }
+.avatar {
+  background-image: url(assets/avatar.jpg);
+  background-position: center;
+  background-size: contain;
+}
+#wrapper-cv {
+  display: grid;
+  grid-template-columns: 150px 1fr 50px;
+  grid-gap: 1px;
+  width: 100%;
+  max-width: 1024px;  
+  margin: 2vh auto 2vh auto;
+}
+.nav-header {
+  position: fixed;
+  grid-column: 1 / 2;
+  background-color: #fff;
+  height: 96vh;
+  width: 150px;
+}
+.wrapper-main {
+  display: grid;
+  grid-gap: 2vh;
+  grid-column: 2 / 3;
+}
+.nav-social {
+  background-color: slategrey;
+  grid-column: 3 / 4;
+  height: 96vh;
+}
+.a-nav {
+  display: block;
+  text-transform: uppercase;
+  height: 100%;
+  width: 100%;
+}
+#about-me {
+  background-color: rebeccapurple;
+  height: 96vh;
+}
+#prof-skills {
+  background-color: indianred;
+  height: 96vh;
+}
+#education {
+  background-color: darkgreen;
+  height: 96vh;
+}
+#eng-skills {
+  background-color: khaki;
+  height: 96vh;
+}
+#contacts {
+  background-color: peru;
+  height: 96vh;
+}
